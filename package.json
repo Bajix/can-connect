@@ -9,29 +9,29 @@
     "can-map": "^3.0.0-pre.7",
     "can-event": "^3.0.0-pre.3",
     "can-observation": "^3.0.0-pre.5",
-    "can-set": "^0.6.0-pre.8",
+    "can-set": "^1.0.1",
     "can-stache": "^3.0.0-pre.8",
     "can-stache-bindings": "^3.0.0-pre.9",
     "can-util": "^3.0.0-pre.28",
     "can-view-callbacks": "^3.0.0-pre.4",
     "can-view-nodelist": "^3.0.0-pre.1",
-    "jquery": "^2.1.4",
+    "jquery": "^3.1.1",
     "steal-stache": "^3.0.0-pre.1",
     "when": "^3.7.3",
-    "can-define": "^0.7.17"
+    "can-define": "^1.0.2"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/canjs/can-connect.git"
   },
   "devDependencies": {
-    "can-fixture": "^0.1.0",
-    "can-wait": "^0.2.0",
+    "can-fixture": "^1.0.2",
+    "can-wait": "^0.3.2",
     "documentjs": "^0.4.4",
     "jshint": "^2.9.1",
-    "steal": "^0.15.8",
+    "steal": "^0.16.41",
     "steal-qunit": "^0.1.1",
-    "steal-tools": "^0.15.5",
+    "steal-tools": "^0.16.8",
     "testee": "^0.2.5"
   },
   "docDependencies": {
